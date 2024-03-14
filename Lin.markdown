@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lin
-permalink: /about/Lin
+permalink: /Lin
 ---
 A page about the author(s)
 
