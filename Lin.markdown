@@ -1,5 +1,5 @@
 ---
-layout: magazine
+layout: page
 title: Lin
 permalink: /Lin/
 ---
