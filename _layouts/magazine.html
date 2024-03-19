@@ -18,12 +18,14 @@ layout: default
 
     <div class="main-content">
         <section class="articles">
-            <!-- Loop through posts/pages to display -->
+            <!-- Loop through posts to find the matching post -->
             {% for post in site.posts %}
-                <article>
-                    <h2>{{ post.title }}</h2>
-                    {{ post.content }}
-                </article>
+                {% if post.url == page.url %}
+                    <article>
+                        <h2>{{ post.title }}</h2>
+                        {{ post.content }}
+                    </article>
+                {% endif %}
             {% endfor %}
         </section>
 
