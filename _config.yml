@@ -26,10 +26,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  linchang2
 
 # Build settings
+theme: minima 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-remote_theme: pages-themes/cayman@v0.2.0
 
 
 # Exclude from processing.
