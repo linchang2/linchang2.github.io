@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lin
-permalink: /Lin/
+title: Week 8 - prostitution
+permalink: /Week 8 - prostitution/
 ---
 # Introduction
 
