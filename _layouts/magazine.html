@@ -1,11 +1,39 @@
 ---
 layout: default
 ---
-<div class="main-content">
-    <section class="articles">
-        <!-- Articles content -->
-    </section>
-    <aside class="sidebar">
-        <!-- Sidebar content -->
-    </aside>
-</div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <!-- Add CSS links or stylesheets here -->
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <!-- Navigation menu can be added here -->
+    </header>
+
+    <div class="main-content">
+        <section class="articles">
+            <!-- Loop through posts/pages to display -->
+            {% for post in site.posts %}
+                <article>
+                    <h2>{{ post.title }}</h2>
+                    {{ post.content }}
+                </article>
+            {% endfor %}
+        </section>
+
+        <aside class="sidebar">
+            <!-- Sidebar content can be added here -->
+        </aside>
+    </div>
+
+    <footer>
+        <!-- Footer content can be added here -->
+    </footer>
+</body>
+</html>
