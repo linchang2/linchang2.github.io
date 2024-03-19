@@ -14,6 +14,8 @@ Phasellus id ante in velit mollis aliquet. Suspendisse potenti. Donec in tincidu
 
 In this section, we'll delve into the analysis of SF Crime Data and explore key insights.
 
+![This is a calendar plot]https://raw.githubusercontent.com/linchang2/linchang2/calendarplot.png)
+
 ### Crime Trends Over the Years
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet nulla ac lorem faucibus, in hendrerit eros tincidunt. Nullam malesuada odio ut convallis varius. Nunc sit amet suscipit risus. Nam non commodo eros. Donec ac scelerisque nulla. Sed posuere velit ut lorem tristique commodo. 
