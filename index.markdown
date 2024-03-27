@@ -4,10 +4,6 @@ layout: frontpage
 #Use layout "home" if you want the posts showing
 
 ---
-
-
-test test 
-
 ## Introduction
 This is a webpage showcasing a short data-story based on the work done in the DTU 
 course: "02806 Social data analysis and visualization-Spring 24" class so far. (This exercise is a kind of "micro version" of what we'll be doing in the final project). Follow the directions in the bulleted list below when you create your data-story.
