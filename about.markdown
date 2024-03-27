@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-A page about the author(s)
+### Team 53 
 
 #### Lin Chang Brendstrup (s193982)
 Lin is new to programming, webpages and social data. She is a DTU student
