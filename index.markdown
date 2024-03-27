@@ -10,32 +10,17 @@ title: Assignment 2 insights
 test test 
 
 ## Introduction
+This is a webpage showcasing a short data-story based on the work done in the DTU 
+course: "02806 Social data analysis and visualization-Spring 24" class so far. (This exercise is a kind of "micro version" of what we'll be doing in the final project). Follow the directions in the bulleted list below when you create your data-story.
 
-Welcome to our magazine-style website! In this section, we'll provide an introduction to our analysis of SF Crime Data. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet nulla ac lorem faucibus, in hendrerit eros tincidunt. Nullam malesuada odio ut convallis varius. Nunc sit amet suscipit risus. Nam non commodo eros. Donec ac scelerisque nulla. Sed posuere velit ut lorem tristique commodo. 
+## The dataset
+The dataset which has been worked with is called; "Police Department Incident Reports: Historical 2003 to May 2018" and provides insight into observations of various crimes committed in San Francisco from 2003-2018. 
+It consists of 2.13M observations which are categorized into 14 columns. These include e.g. a crime category (prostitution, car theft, robbery), the day and date of the crime, the time, the district and the coordinates of the crime.
 
-Phasellus id ante in velit mollis aliquet. Suspendisse potenti. Donec in tincidunt nulla. Integer quis ante quis arcu luctus vestibulum vel at nunc. Sed ac commodo urna. Proin non nunc eu libero viverra fermentum. Integer pretium ultricies ex nec fermentum. 
 ## Analysis
-
 In this section, we'll delve into the analysis of SF Crime Data and explore key insights.
 ¨
 HER ER DER ET BILLEDE
 
 ![This is a calendar plot](https://linchang2.github.io/calendarplot.png)
-
-### Crime Trends Over the Years
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet nulla ac lorem faucibus, in hendrerit eros tincidunt. Nullam malesuada odio ut convallis varius. Nunc sit amet suscipit risus. Nam non commodo eros. Donec ac scelerisque nulla. Sed posuere velit ut lorem tristique commodo. 
-
-### Geographic Distribution of Crime
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet nulla ac lorem faucibus, in hendrerit eros tincidunt. Nullam malesuada odio ut convallis varius. Nunc sit amet suscipit risus. Nam non commodo eros. Donec ac scelerisque nulla. Sed posuere velit ut lorem tristique commodo. 
-
-### Interactive Visualization
-
-Below is an interactive visualization of crime data using Bokeh:
-
-[Insert Bokeh visualization here]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet nulla ac lorem faucibus, in hendrerit eros tincidunt. Nullam malesuada odio ut convallis varius. Nunc sit amet suscipit risus. Nam non commodo eros. Donec ac scelerisque nulla. Sed posuere velit ut lorem tristique commodo. 
