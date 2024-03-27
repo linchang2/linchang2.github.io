@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lin's Webpage
+title: Assignment 2
 email: linbenga@gmail.com
 description: Hello this is the very new webpage created by Lin. You will see blogposts of social data
 baseurl: "" # the subpath of your site, e.g. /blog
