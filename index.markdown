@@ -1,7 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 layout: frontpage 
-title: Assignment 2 insights
 #Use layout "home" if you want the posts showing
 
 ---
@@ -24,3 +23,15 @@ In this section, we'll delve into the analysis of SF Crime Data and explore key 
 HER ER DER ET BILLEDE
 
 ![This is a calendar plot](https://linchang2.github.io/calendarplot.png)
+
+
+One time-series / bar chart (it's OK to use the "fancy" plot-typs like calendar plots or polar bar-charts from Week 2, Part 4).
+One map (use techniques from Week 3 and 4)
+One interactive visualization in Bokeh (Week 6)
+At a minimum, the Bokeh visualization should contain different data than the exercise we did for Week 6 (it's a plus if it's a new type of viz altogether).
+The two other visualization may be repetitions of figures created during the previous lectures, or they may be new.
+Make the figures nice. Specifically:
+Aim to make the figures visually consistent (color, fonts, etc)
+Follow the recommendations from my video on nice figures (Week 2, part 3)
+In terms of the amount of text, I envision something like 500-1500 words (including figure captions). Try to write in your own words - the LLMs have a tendency to write a lot of text and not be so precise. So if the writing is all elegantly written but empty prose, we will be critical. It is OK, however, to have the LLM help you get the grammer, etc. right.
+It is a plus if you can back up some of your findings with external sources, such as news stories from the area, looking up which building is located at some set of lat,lon coordinates, or similar. (So when you see something happening at some time/place in the data, see if you can understand it more deeply by investigating outside the dataset.) Use real references at the end of the text to organize your links to the outside world.

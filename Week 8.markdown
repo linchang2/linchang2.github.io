@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Week 8 - prostitution
-permalink: /Week 8 - prostitution/
 ---
 # Introduction
 
