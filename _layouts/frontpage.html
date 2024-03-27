@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,26 +13,22 @@ layout: default
 <body>
     <header>
         <h1>{{ site.title }}</h1>
-        <nav>
-            <ul>
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-                <li><a href="{{ site.baseurl }}/about">About</a></li>
-                <li><a href="{{ site.baseurl }}/analysis">Analysis</a></li>
-                <!-- Add more links as needed -->
-            </ul>
-        </nav>
+        <!-- Navigation menu can be added here -->
     </header>
+
     <div class="main-content">
         <section class="articles">
-            <!-- Articles content -->
+            <!-- Display content specific to the front page -->
             {{ content }}
         </section>
+
         <aside class="sidebar">
-            <!-- Sidebar content -->
+            <!-- Sidebar content can be added here -->
         </aside>
     </div>
+
     <footer>
-        <!-- Footer content -->
+        <!-- Footer content can be added here -->
     </footer>
 </body>
 </html>
