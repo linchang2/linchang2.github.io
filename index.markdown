@@ -26,7 +26,13 @@ Figure 1: Calendar plot of number of vehicle thefts in San Francisco in the peri
 
 
 In the plot there is a clear indication on how the vehicle theft have decreased significantly in the year of 2006. 
-While there were often between 40-70 thefts a day in the years of 2003-2005, there are almost no days in the period 2006-2007 where there were more than 40 thefts a day - often below 20.
+While there were often between 40-70 thefts a day in the years of 2003-2005, there are almost no days in the period 2006-2007 where there were more than 40 thefts a day - on average it looks like the number of thefts is around 20.
+According to the article "Auto thefts in state decline for first time in decade" (REF) there was in Californaia a statewise 5.5 percentage drop of vehicle thefts between 2005 and 2006. 
+Even more impressive is it that "Car thefts were down 22.9 percent in San Francissco". POtential reasons to this decreasing trend are said to be:
+1. Car owners buy more preventive devices (e.g. locks for the steering wheels & tracking systems)
+2. Police officers increasingly using 'bait cars' to nap thieves
+3. License Plate Recognition systems to spot stolen cars
+4. Newer cars often have build in alarms
 
 
 
@@ -34,7 +40,6 @@ HER ER BOKEH
 <iframe src="Bokeh Plot.html" width="800" height="400"></iframe>
 
 
-One time-series / bar chart (it's OK to use the "fancy" plot-typs like calendar plots or polar bar-charts from Week 2, Part 4).
 One map (use techniques from Week 3 and 4)
 One interactive visualization in Bokeh (Week 6)
 At a minimum, the Bokeh visualization should contain different data than the exercise we did for Week 6 (it's a plus if it's a new type of viz altogether).
