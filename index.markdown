@@ -20,7 +20,7 @@ In this section, we'll delve into the analysis of SF Crime Data and explore key 
 ¨
 HER ER DER ET BILLEDE
 
-![This is a calendar plot](https://linchang2.github.io/calendarplot.png)
+![This is a calendar plot](https://linchang2.github.io/calendar_vehicle.png)
 
 HER ER BOKEH
 <iframe src="Bokeh Plot.html" width="800" height="400"></iframe>
