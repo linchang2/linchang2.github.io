@@ -8,19 +8,27 @@ permalink: /
 ---
 ## Introduction
 This is a webpage showcasing a short data-story based on the work done in the DTU 
-course: "02806 Social data analysis and visualization-Spring 24" class so far. (This exercise is a kind of "micro version" of what we'll be doing in the final project). Follow the directions in the bulleted list below when you create your data-story.
+course: "02806 Social data analysis and visualization-Spring 24"
 
 
 ## The dataset
-The dataset which has been worked with is called; "Police Department Incident Reports: Historical 2003 to May 2018" and provides insight into observations of various crimes committed in San Francisco from 2003-2018. 
+The dataset which has been worked with is called; "Police Department Incident Reports: Historical 2003 to May 2018" and provides insight into observations of various crimes committed in San Francisco from 2003-2018. While it covers crimes in 2018, we have chosen to only include 
+data up to and including 2017, since the 2018 observations are only until May and therefore not for a full year which might disrup the result of some analyses.
 It consists of 2.13M observations which are categorized into 14 columns. These include e.g. a crime category (prostitution, car theft, robbery), the day and date of the crime, the time, the district and the coordinates of the crime.
 
 ## Analysis
 In this section, we'll delve into the analysis of SF Crime Data and explore key insights.
-¨
-HER ER DER ET BILLEDE
+The dataset contains observatinos of 37 different types of crimes. We have however decided to look into vehicle theft. 
+The amount of wehicle thefts each day in the period of 2003-2017 can bee seen on the calender plot on Figure 1. 
 
 ![This is a calendar plot](https://linchang2.github.io/calendar_vehicle.png)
+Figure 1: Calendar plot of number of vehicle thefts in San Francisco in the period 2003-2017.
+
+
+In the plot there is a clear indication on how the vehicle theft have decreased significantly in the year of 2006. 
+While there were often between 40-70 thefts a day in the years of 2003-2005, there are almost no days in the period 2006-2007 where there were more than 40 thefts a day - often below 20.
+
+
 
 HER ER BOKEH
 <iframe src="Bokeh Plot.html" width="800" height="400"></iframe>
