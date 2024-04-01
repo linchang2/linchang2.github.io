@@ -23,7 +23,7 @@ The amount of wehicle thefts each day in the period of 2003-2017 can bee seen on
 
 ![This is a calendar plot](https://linchang2.github.io/calendar_vehicle.png)
 Figure 1: Calendar plot of number of vehicle thefts in San Francisco in the period 2003-2017.
-
+hj
 
 In the plot there is a clear indication on how the vehicle theft have decreased significantly in the year of 2006. 
 While there were often between 40-70 thefts a day in the years of 2003-2005, there are almost no days in the period 2006-2007 where there were more than 40 thefts a day - on average it looks like the number of thefts is around 20.
