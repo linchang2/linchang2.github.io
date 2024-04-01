@@ -23,7 +23,7 @@ HER ER DER ET BILLEDE
 ![This is a calendar plot](https://linchang2.github.io/calendarplot.png)
 
 HER ER BOKEH
-<iframe src="bokeh_plot.html" width="800" height="400"></iframe>
+<iframe src="Bokeh Plot.html" width="800" height="400"></iframe>
 
 
 One time-series / bar chart (it's OK to use the "fancy" plot-typs like calendar plots or polar bar-charts from Week 2, Part 4).
